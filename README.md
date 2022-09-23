@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+## Link to deployed application file:///C:/Users/Preston/homework/horiseon-code-refactor/Develop/index.html
+
 ## Course of Action
 
 1. I first changed the title of the website to a more descriptive name. Then created alt descriptions for the images that were'nt acessible.
