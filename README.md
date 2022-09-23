@@ -9,3 +9,9 @@
 3. Next I went in CSS and changed the navigation classes by removing the period selector. Next I went through HTML to fix the navigation links by taking away that class attribute.
 
 4. I then made some more semantic changes in HTML by taking out the class attributes and leaving the base elements. Then went to CSS and did the same by removing the period selector.
+
+
+
+![Alt text]![image]![image](https://user-images.githubusercontent.com/113738082/191893504-91ee338e-8058-4f48-9faa-b37d0f691a54.png)
+
+
