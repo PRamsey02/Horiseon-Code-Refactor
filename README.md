@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-## Link to deployed application [view-source:file:///C:/Users/Preston/homework/horiseon-code-refactor/Develop/index.html](url)
+## Link to deployed application [https://Preston/homework/horiseon-code-refactor/Develop/index.html#social-media-marketing](url)
 
 ## Course of Action
 
