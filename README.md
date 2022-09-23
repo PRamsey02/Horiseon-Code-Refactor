@@ -11,7 +11,8 @@
 4. I then made some more semantic changes in HTML by taking out the class attributes and leaving the base elements. Then went to CSS and did the same by removing the period selector.
 
 
+## Screenshot of the alt description.
+![image](https://user-images.githubusercontent.com/113738082/191893554-f52ac14c-802a-4972-8f7b-924976782130.png)
 
-![Alt text]![image]![image](https://user-images.githubusercontent.com/113738082/191893504-91ee338e-8058-4f48-9faa-b37d0f691a54.png)
 
 
