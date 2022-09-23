@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-## Link to deployed application [https://pramsey02.github.io/horiseon-code-refactor/](url)
+## [Link to deployed application] (https://pramsey02.github.io/horiseon-code-refactor/url)
 
 ## Course of Action
 
