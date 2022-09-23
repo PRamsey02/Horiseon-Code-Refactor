@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-## Link to deployed application [file:///C:/Users/Preston/homework/horiseon-code-refactor/Develop/index.html](url)
+## Link to deployed application [https:///C:/Users/Preston/homework/horiseon-code-refactor/Develop/index.html](url)
 
 ## Course of Action
 
